@@ -1,0 +1,5 @@
+package com.spring2.controller;
+
+public class SampleController {
+
+}

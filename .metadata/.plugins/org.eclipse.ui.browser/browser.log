@@ -1,0 +1,15 @@
+
+5월 03, 2024 09:05:34.19 NEW SESSION
+5월 03, 2024 09:05:34.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 09:08:33.567 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 03, 2024 09:10:07.260 NEW SESSION
+5월 03, 2024 09:10:07.260 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 09:10:31.776 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 03, 2024 09:12:52.533 [14132:6728:0503/091252.532:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 03, 2024 09:12:52.533 [14132:6728:0503/091252.532:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 03, 2024 09:13:11.772 [14132:2180:0503/091311.772:ERROR:cert_verify_proc_builtin.cc(1052)] CertVerifyProcBuiltin for www.khmain.or.kr failed:
+5월 03, 2024 09:13:11.779 ----- Certificate i=0 (CN=www.khmain.or.kr) -----
+5월 03, 2024 09:13:11.779 ERROR: Time is after notAfter
+5월 03, 2024 09:13:11.779 
+5월 03, 2024 09:13:11.779 
