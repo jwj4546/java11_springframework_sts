@@ -7,6 +7,12 @@
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="com.spring1.dto.Sample"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.spring2.dao.SampleDAO"/>
+    <fullyQualifiedTypeName name="com.spring3.dto.Store"/>
+    <fullyQualifiedTypeName name="com.spring3.dto.Shop"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.spring3.dto.Mart"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.spring3.dto.Warehouse"/>
 </qualifiedTypeNameHistroy>
