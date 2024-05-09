@@ -3,6 +3,7 @@
   <groupId>spring3</groupId>
   <artifactId>spring3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>spring3</name>
   <packaging>war</packaging>
   <properties>
   	<java-version>11</java-version>
@@ -282,6 +283,11 @@
 		    <groupId>javax.xml.bind</groupId>
 		    <artifactId>jaxb-api</artifactId>
 		    <version>2.3.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>javax.annotation</groupId>
+		    <artifactId>javax.annotation-api</artifactId>
+		    <version>1.2</version>
 		</dependency>
   </dependencies>
   <build>

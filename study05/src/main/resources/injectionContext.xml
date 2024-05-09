@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	https://www.springframework.org/schema/beans/spring-beans.xsd">
+		
+
+	<!-- 비어있는 객체 생성 : No Argument -->
+	<bean id="store1" class="com.spring3.dto.Store"></bean>
+	
+	<!-- 생성자(Constructor) 주입 : All Argument -->
+	<bean id="store2" class="com.spring3.dto.Store">
+		<constructor-arg name="storeNum" value="1"></constructor-arg>
+		<constructor-arg name="storeName" value="HomePlus"></constructor-arg>
+	</bean>
+	
+	<!-- 생성자(Constructor) 주입2 : All Argument - value -->
+	<bean id="store3" class="com.spring3.dto.Store">
+		<constructor-arg name="storeNum">
+			<value>1</value>
+		</constructor-arg>
+		<constructor-arg name="storeName">
+			<value>HomePlus</value>
+		</constructor-arg>
+	</bean>
+	
+	<!-- 수정자 주입(setter injection) -->
+	<bean id="store4" class="com.spring3.dto.Store">
+		<property name="storeNum" value="2"></property>
+		<property name="storeName" value="EMart"></property>
+	</bean>
+	
+</beans>
