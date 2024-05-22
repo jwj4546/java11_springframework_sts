@@ -215,6 +215,11 @@
 		    <artifactId>json</artifactId>
 		    <version>20200518</version>
 		</dependency>
+		<dependency>
+		    <groupId>org.apache.clerezza.ext</groupId>
+		    <artifactId>org.json.simple</artifactId>
+		    <version>0.4</version>
+		</dependency>
 		
 		<!-- jackson 라이브러리 -->
 		<dependency>
